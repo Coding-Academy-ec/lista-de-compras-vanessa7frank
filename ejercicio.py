@@ -11,3 +11,5 @@ def convertir_lista_a_tupla(lista):
 
 tupla_productos = convertir_lista_a_tupla(productos)
 print(f"Los productos de la lista de compras son: {tupla_productos}")
+
+# Ejercicio 
